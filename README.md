@@ -1,1 +1,1 @@
-# dart-exercises-and-examples
+A simple command-line application.
